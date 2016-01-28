@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "grounds"
+    },
+    "grounds": {
+      "applicationId": "FEvaZrpMPgucmHiz5zaVGwPojpoMzOGh1yJ3xUAK"
+    }
+  }
+}
